@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class ClientWindow extends JFrame implements ActionListener, TCPConnectionListener {
 
-    private static final String IP_ADDR = "192.168.31.72";
+    private static final String IP_ADDR = "192.168.0.105";
     private static final int PORT = 8192;
     private static final int WIDTH = 600;
     private static final int HEIGHT = 400;
